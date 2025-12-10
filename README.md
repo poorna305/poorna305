@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @poorna305
 - 👀 I’m interested in problem solving.
-- 🌱 I’m currently learning python.
 
 <!---
 poorna305/poorna305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
